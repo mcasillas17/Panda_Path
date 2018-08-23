@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3ee4496abf66c43d6ac6bd5c2fc322db
+timeCreated: 1497745857
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BambuCB
+  fontNames:
+  - BambuCB
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
